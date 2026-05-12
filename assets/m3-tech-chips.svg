@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+  <defs>
+    <style>
+      .chip {
+        fill: #E8DEF8;
+        stroke: #7E57C2;
+        stroke-width: 1px;
+      }
+      .chip-text {
+        font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        font-weight: 500;
+        fill: #1D192B;
+      }
+      .chip-icon-bg {
+        fill: #7E57C2;
+      }
+      .section-title {
+        font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 20px;
+        font-weight: 600;
+        fill: #49454F;
+      }
+    </style>
+  </defs>
+
+  <!-- Languages -->
+  <text x="20" y="30" class="section-title">Languages</text>
+  
+  <g transform="translate(20, 45)">
+    <rect width="90" height="32" rx="8" class="chip"/>
+    <circle cx="16" cy="16" r="10" class="chip-icon-bg"/>
+    <text x="16" y="20" font-size="12" fill="#FFFFFF" text-anchor="middle" font-family="sans-serif">J</text>
+    <text x="34" y="21" class="chip-text">Java</text>
+  </g>
+  <g transform="translate(125, 45)">
+    <rect width="85" height="32" rx="8" class="chip"/>
+    <circle cx="16" cy="16" r="10" class="chip-icon-bg"/>
+    <text x="16" y="20" font-size="12" fill="#FFFFFF" text-anchor="middle" font-family="sans-serif">X</text>
+    <text x="34" y="21" class="chip-text">XML</text>
+  </g>
+  <g transform="translate(225, 45)">
+    <rect width="115" height="32" rx="8" class="chip"/>
+    <circle cx="16" cy="16" r="10" class="chip-icon-bg"/>
+    <text x="16" y="20" font-size="12" fill="#FFFFFF" text-anchor="middle" font-family="sans-serif">JS</text>
+    <text x="34" y="21" class="chip-text">JavaScript</text>
+  </g>
+
+  <!-- Android Development -->
+  <text x="20" y="110" class="section-title">Android Development</text>
+  
+  <g transform="translate(20, 125)">
+    <rect width="145" height="32" rx="8" class="chip"/>
+    <circle cx="16" cy="16" r="10" class="chip-icon-bg"/>
+    <text x="16" y="20" font-size="12" fill="#FFFFFF" text-anchor="middle" font-family="sans-serif">AS</text>
+    <text x="34" y="21" class="chip-text">Android Studio</text>
+  </g>
+  <g transform="translate(180, 125)">
+    <rect width="105" height="32" rx="8" class="chip"/>
+    <circle cx="16" cy="16" r="10" class="chip-icon-bg"/>
+    <text x="16" y="20" font-size="12" fill="#FFFFFF" text-anchor="middle" font-family="sans-serif">FB</text>
+    <text x="34" y="21" class="chip-text">Firebase</text>
+  </g>
+  <g transform="translate(300, 125)">
+    <rect width="115" height="32" rx="8" class="chip"/>
+    <circle cx="16" cy="16" r="10" class="chip-icon-bg"/>
+    <text x="16" y="20" font-size="12" fill="#FFFFFF" text-anchor="middle" font-family="sans-serif">M3</text>
+    <text x="34" y="21" class="chip-text">Material UI</text>
+  </g>
+
+  <!-- Tools -->
+  <text x="450" y="110" class="section-title">Tools</text>
+  
+  <g transform="translate(450, 125)">
+    <rect width="70" height="32" rx="8" class="chip"/>
+    <circle cx="16" cy="16" r="10" class="chip-icon-bg"/>
+    <text x="16" y="20" font-size="12" fill="#FFFFFF" text-anchor="middle" font-family="sans-serif">G</text>
+    <text x="34" y="21" class="chip-text">Git</text>
+  </g>
+  <g transform="translate(535, 125)">
+    <rect width="95" height="32" rx="8" class="chip"/>
+    <circle cx="16" cy="16" r="10" class="chip-icon-bg"/>
+    <text x="16" y="20" font-size="12" fill="#FFFFFF" text-anchor="middle" font-family="sans-serif">GH</text>
+    <text x="34" y="21" class="chip-text">GitHub</text>
+  </g>
+  <g transform="translate(645, 125)">
+    <rect width="105" height="32" rx="8" class="chip"/>
+    <circle cx="16" cy="16" r="10" class="chip-icon-bg"/>
+    <text x="16" y="20" font-size="12" fill="#FFFFFF" text-anchor="middle" font-family="sans-serif">VS</text>
+    <text x="34" y="21" class="chip-text">VS Code</text>
+  </g>
+
+</svg>

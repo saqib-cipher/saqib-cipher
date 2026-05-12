@@ -33,11 +33,11 @@ I enjoy working with **Java**, **XML**, **Firebase**, **Android Studio**, and cu
 
 ---
 
-## 🟣 Material 3 Expressive Buttons
+## 🟣 Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/saqib-cipher">
   <img src="https://img.shields.io/badge/GitHub-Profile-6A4BBC?style=for-the-badge&logo=github&logoColor=white&labelColor=EDE7F6" />
 </a>
 
@@ -91,48 +91,30 @@ Exploring AI tools, automation, local models, and app development workflows.
 ## 🛠 Tech Stack
 
 <div align="center">
-
-### Languages
-
-<img src="https://img.shields.io/badge/Java-Outlined-7E57C2?style=for-the-badge&logo=openjdk&logoColor=7E57C2&labelColor=F5F0FF" />
-<img src="https://img.shields.io/badge/XML-UI-9575CD?style=for-the-badge&logo=xml&logoColor=5E35B1&labelColor=F5F0FF" />
-<img src="https://img.shields.io/badge/JavaScript-Basic-B39DDB?style=for-the-badge&logo=javascript&logoColor=5E35B1&labelColor=F5F0FF" />
-
-<br><br>
-
-### Android Development
-
-<img src="https://img.shields.io/badge/Android-Studio-6A4BBC?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=EDE7F6" />
-<img src="https://img.shields.io/badge/Firebase-Backend-8E44AD?style=for-the-badge&logo=firebase&logoColor=white&labelColor=F3E5F5" />
-<img src="https://img.shields.io/badge/Material_Design-UI-7E57C2?style=for-the-badge&logo=material-design&logoColor=white&labelColor=EDE7F6" />
-
-<br><br>
-
-### Tools
-
-<img src="https://img.shields.io/badge/Git-Version_Control-6A4BBC?style=for-the-badge&logo=git&logoColor=white&labelColor=EDE7F6" />
-<img src="https://img.shields.io/badge/GitHub-Code_Hosting-3F2A56?style=for-the-badge&logo=github&logoColor=white&labelColor=EDE7F6" />
-<img src="https://img.shields.io/badge/VS_Code-Editor-7E57C2?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=F3E5F5" />
-
+  <img src="assets/m3-tech-chips.svg" width="800" alt="Tech Stack" />
 </div>
 
 ---
 
-## 🎨 Custom Shape UI Section
+## 🎨 App UI Design & Material 3
 
 <div align="center">
+  <img src="assets/m3-ui-showcase.svg" width="800" alt="Material 3 UI Showcase" />
+</div>
 
-<table>
-<tr>
-<td width="50%" align="center">
+---
 
-### 🧩 App UI Design
+## 📊 GitHub Stats
 
-```txt
-╭────────────────────────────╮
-│  Material 3 Expressive UI  │
-│  Rounded Cards             │
-│  Outlined Buttons          │
-│  Custom Shapes             │
-│  Soft Lavender Theme       │
-╰────────────────────────────╯
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=saqib-cipher&show_icons=true&theme=transparent&hide_border=true&title_color=3F2A56&icon_color=7E57C2&text_color=6A4BBC&bg_color=F3E5F5" width="400" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqib-cipher&layout=compact&theme=transparent&hide_border=true&title_color=3F2A56&text_color=6A4BBC&bg_color=F3E5F5" width="300" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
