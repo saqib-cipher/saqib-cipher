@@ -1,89 +1,29 @@
-<!-- GitHub Profile README -->
+<!-- GitHub Profile README - Material 3 Expressive Style -->
 
 <div align="center">
 
-# Hi, I'm YOUR_NAME 👋
-
-### Android App Developer | Java | XML | Firebase | UI/UX Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Android+App+Developer;Java+%7C+XML+%7C+Firebase;Building+Modern+Mobile+Apps;Learning+AI+and+Automation" />
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B39DDB,50:D1C4E9,100:F3E5F5&height=230&section=header&text=YOUR_NAME&fontSize=48&fontColor=3F2A56&animation=fadeIn&fontAlignY=38&desc=Android%20App%20Developer%20%7C%20Java%20%7C%20Firebase%20%7C%20UI%2FUX&descAlignY=58&descAlign=50" />
 
 </div>
 
----
+<br>
 
-## About Me
-
-I am a passionate Android app developer who loves building useful, modern, and user-friendly mobile applications.  
-I work mainly with **Java**, **XML**, **Firebase**, and Android Studio. I enjoy creating clean UI designs, solving real-world problems, and learning new technologies.
-
-- Currently working on Android apps
-- Learning AI tools and local models
-- Interested in app development, automation, and game development
-- Open to freelance projects and collaboration
-
----
-
-## Tech Stack
-
-<div align="center">
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Android Development
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-## Featured Projects
-
+<!-- Intro Card -->
 <div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="900">
 
-### Project One
+### 👋 Hi, I'm **YOUR_NAME**
 
-A modern Android application built using Java, XML, and Firebase.
+I build modern Android apps with clean UI, smooth user experience, and practical features.  
+I enjoy working with **Java**, **XML**, **Firebase**, **Android Studio**, and custom UI design.
 
-**Features:**
-- Clean UI design
-- Firebase integration
-- User-friendly layout
-- Responsive screens
+<br>
 
-[View Project](https://github.com/YOUR_USERNAME/PROJECT_ONE)
-
-</td>
-<td width="50%">
-
-### Project Two
-
-An Android app with custom UI components and useful features.
-
-**Features:**
-- Material-style design
-- Fast performance
-- Simple navigation
-- Easy-to-use interface
-
-[View Project](https://github.com/YOUR_USERNAME/PROJECT_TWO)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=7E57C2&center=true&vCenter=true&width=700&lines=Android+App+Developer;Material+3+UI+Designer;Java+%7C+XML+%7C+Firebase;Building+Modern+Mobile+Apps;Learning+AI+and+Automation" />
 
 </td>
 </tr>
@@ -93,49 +33,106 @@ An Android app with custom UI components and useful features.
 
 ---
 
-## GitHub Stats
+## 🟣 Material 3 Expressive Buttons
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-Profile-6A4BBC?style=for-the-badge&logo=github&logoColor=white&labelColor=EDE7F6" />
+</a>
+
+<a href="YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-7E57C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=EDE7F6" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-Contact-8E44AD?style=for-the-badge&logo=gmail&logoColor=white&labelColor=F3E5F5" />
+</a>
+
+<a href="YOUR_PORTFOLIO">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-B39DDB?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=F3E5F5" />
+</a>
+
+</div>
+
+---
+
+## ✨ About Me
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 📱 Android
+Building mobile apps using Java, XML, Firebase, and Android Studio.
+
+</td>
+<td width="33%" align="center">
+
+### 🎨 UI Design
+Creating modern layouts inspired by Material 3 and expressive design systems.
+
+</td>
+<td width="33%" align="center">
+
+### 🚀 Learning
+Exploring AI tools, automation, local models, and app development workflows.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://img.shields.io/badge/Java-Outlined-7E57C2?style=for-the-badge&logo=openjdk&logoColor=7E57C2&labelColor=F5F0FF" />
+<img src="https://img.shields.io/badge/XML-UI-9575CD?style=for-the-badge&logo=xml&logoColor=5E35B1&labelColor=F5F0FF" />
+<img src="https://img.shields.io/badge/JavaScript-Basic-B39DDB?style=for-the-badge&logo=javascript&logoColor=5E35B1&labelColor=F5F0FF" />
 
 <br><br>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+### Android Development
+
+<img src="https://img.shields.io/badge/Android-Studio-6A4BBC?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=EDE7F6" />
+<img src="https://img.shields.io/badge/Firebase-Backend-8E44AD?style=for-the-badge&logo=firebase&logoColor=white&labelColor=F3E5F5" />
+<img src="https://img.shields.io/badge/Material_Design-UI-7E57C2?style=for-the-badge&logo=material-design&logoColor=white&labelColor=EDE7F6" />
+
+<br><br>
+
+### Tools
+
+<img src="https://img.shields.io/badge/Git-Version_Control-6A4BBC?style=for-the-badge&logo=git&logoColor=white&labelColor=EDE7F6" />
+<img src="https://img.shields.io/badge/GitHub-Code_Hosting-3F2A56?style=for-the-badge&logo=github&logoColor=white&labelColor=EDE7F6" />
+<img src="https://img.shields.io/badge/VS_Code-Editor-7E57C2?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=F3E5F5" />
 
 </div>
 
 ---
 
-## Activity Graph
+## 🎨 Custom Shape UI Section
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+<table>
+<tr>
+<td width="50%" align="center">
 
-</div>
-
----
-
-## Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR_USERNAME-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
-</div>
-
----
-
-## Current Focus
+### 🧩 App UI Design
 
 ```txt
-Android Development
-Firebase Projects
-Modern UI Design
-AI Tools
-Freelancing
+╭────────────────────────────╮
+│  Material 3 Expressive UI  │
+│  Rounded Cards             │
+│  Outlined Buttons          │
+│  Custom Shapes             │
+│  Soft Lavender Theme       │
+╰────────────────────────────╯
