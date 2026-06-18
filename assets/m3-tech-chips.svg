@@ -2,24 +2,24 @@
   <defs>
     <style>
       .chip {
-        fill: #E8DEF8;
-        stroke: #7E57C2;
+        fill: #F3F4F6;
+        stroke: #D1D5DB;
         stroke-width: 1px;
       }
       .chip-text {
         font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
         font-size: 14px;
         font-weight: 500;
-        fill: #1D192B;
+        fill: #1F2937;
       }
       .chip-icon-bg {
-        fill: #7E57C2;
+        fill: #4B5563;
       }
       .section-title {
         font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-        font-size: 20px;
+        font-size: 18px;
         font-weight: 600;
-        fill: #49454F;
+        fill: #111827;
       }
     </style>
   </defs>
