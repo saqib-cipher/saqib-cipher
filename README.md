@@ -14,8 +14,8 @@
 
 <a href="https://github.com/saqib-cipher"><img src="https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-24292e?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-24292e?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-24292e?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:saqibcipher@gmail.com"><img src="https://img.shields.io/badge/Email-24292e?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://saqib-cipher.github.io/"><img src="https://img.shields.io/badge/Portfolio-24292e?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
