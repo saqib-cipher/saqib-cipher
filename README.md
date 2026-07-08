@@ -23,7 +23,7 @@
 
 ### About Me
 
-I build modern Android applications with a focus on clean user interfaces, smooth user experience, and practical functionality. I specialize in Java, XML layout design, Firebase integration, and custom UI components.
+I build modern Android applications with a focus on clean user interfaces, smooth user experience, and practical functionality. I specialize in Java, layout design, and custom UI components.
 
 - **Android Development** &mdash; Crafting robust mobile solutions using Java and XML within Android Studio.
 - **UI Design** &mdash; Creating elegant, responsive layouts inspired by modern Design Systems and Material Design.
@@ -31,21 +31,7 @@ I build modern Android applications with a focus on clean user interfaces, smoot
 
 ---
 
-### Tech Stack
 
-<div align="center">
-  <img src="assets/m3-tech-chips.svg" width="100%" style="max-width: 800px;" alt="Tech Stack" />
-</div>
-
----
-
-### UI Design Showcase
-
-<div align="center">
-  <img src="assets/m3-ui-showcase.svg" width="100%" style="max-width: 800px;" alt="Material Design Showcase" />
-</div>
-
----
 
 ### GitHub Stats
 
