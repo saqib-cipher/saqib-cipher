@@ -7,7 +7,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2800&pause=900&color=4A4A4A&center=true&vCenter=true&width=600&lines=Android+App+Developer;Material+Design+Enthusiast;Java+%7C+XML+%7C+Firebase;Building+Refined+Mobile+Experiences;Exploring+AI+and+Automation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2800&pause=900&color=4A4A4A&center=true&vCenter=true&width=600&lines=Android+&+Web+Developer;Material+Design+Enthusiast;Building+tools+not+just+apps;Exploring+AI+and+Automation" alt="Typing SVG" />
 
 <br>
 <br>
