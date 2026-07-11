@@ -23,7 +23,7 @@
 
 ### About Me
 
-I build modern Android applications with a focus on clean user interfaces, smooth user experience, and practical functionality. I specialize in Java, layout design, and custom UI components.
+I build modern Android applications with a focus on clean user interfaces, smooth user experience, and practical functionality. I specialize in Java, layout design, and Web development.
 
 - **Android Development** &mdash; Crafting robust mobile solutions using Java and XML within Android Studio.
 - **UI Design** &mdash; Creating elegant, responsive layouts inspired by modern Design Systems and Material Design.
