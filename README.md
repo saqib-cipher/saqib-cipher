@@ -1,41 +1,141 @@
-<!-- GitHub Profile README - Minimalist Style -->
+<!-- ========================================= -->
+<!--        MD SAQIB | GitHub Profile          -->
+<!-- ========================================= -->
 
-<div align="center">
+<p align="center">
+  <img src="./assets/banner-dark.svg" alt="MD SAQIB Banner" width="100%" />
+</p>
 
-# SAQIB CIPHER
-**Android Developer &bull; UI/UX Designer**
+<h1 align="center">Hi 👋, I'm MD SAQIB</h1>
 
-<br>
+<h3 align="center">
+Android & Web Developer • B.Tech 2nd Year • Hyderabad, India
+</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2800&pause=900&color=4A4A4A&center=true&vCenter=true&width=600&lines=Android+Web+Developer;Material+Design+Enthusiast;Building+tools+not+just+apps;Exploring+AI+and+Automation" alt="Typing SVG" />
-
-<br>
-<br>
-
-<a href="https://github.com/saqib-cipher"><img src="https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-24292e?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:saqibcipher@gmail.com"><img src="https://img.shields.io/badge/Email-24292e?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://saqib-cipher.github.io/"><img src="https://img.shields.io/badge/Portfolio-24292e?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-
-</div>
+<p align="center">
+Building modern Android apps, web projects and developer tools with
+Material Design 3.
+</p>
 
 ---
 
-### About Me
+## 🚀 About Me
 
-I build modern Android applications with a focus on clean user interfaces, smooth user experience, and practical functionality. I specialize in Java, layout design, and Web development.
-
-- **Android Development** &mdash; Crafting robust mobile solutions using Java and XML within Android Studio.
-- **UI Design** &mdash; Creating elegant, responsive layouts inspired by modern Design Systems and Material Design.
-- **Learning & Exploration** &mdash; Experimenting with AI integration, automation tools, and optimized development workflows.
+- 🎓 B.Tech 2nd Year
+- 📍 Hyderabad, India
+- 💻 Android & Web Developer
+- 🌱 Currently learning Android, Java, JavaScript and Backend
+- 🎨 Passionate about Material Design 3
+- ⚡ Building **DragWeb**, Android utilities and open-source projects
 
 ---
 
+## 🛠 Tech Stack
 
+### Languages
 
-### GitHub Stats
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css,c" />
+</p>
+
+### Frameworks & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,firebase,mysql,sqlite,cloudflare" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img width="49%" src="YOUR_SELF_HOSTED_STATS_URL/api?username=saqib-cipher&show_icons=true&hide_rank=true&theme=tokyonight"/>
+
+<img width="49%" src="YOUR_SELF_HOSTED_STATS_URL/api/top-langs/?username=saqib-cipher&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="100%" src="https://streak-stats.demolab.com?user=saqib-cipher&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Graph
+
+<p align="center">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/saqib-cipher/saqib-cipher/output/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/saqib-cipher/saqib-cipher/output/github-contribution-grid-snake.svg">
+
+<img alt="Snake Animation"
+src="https://raw.githubusercontent.com/saqib-cipher/saqib-cipher/output/github-contribution-grid-snake.svg"/>
+
+</picture>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://t.me/whoissaqib">
+<img src="https://img.shields.io/badge/Telegram-0A101F?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/saqib_cipher">
+<img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:saqibcipher@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0A101F?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://saqib-cipher.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Current Focus
+
+```text
+📱 Android Development
+🌐 Modern Web Apps
+🎨 Material Design 3
+⚙️ Java & JavaScript
+☁️ Cloudflare
+🚀 Open Source
+```
+
+---
+
+# 📈 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=saqib-cipher&style=for-the-badge&color=7C3AED"/>
+
+</p>
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saqib-cipher&show_icons=true&theme=transparent&hide_border=true&title_color=24292e&icon_color=4A4A4A&text_color=555555&bg_color=00000000" width="400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqib-cipher&layout=compact&theme=transparent&hide_border=true&title_color=24292e&text_color=555555&bg_color=00000000" width="300" alt="Top Languages" />
+
+### ⭐ Thanks for visiting!
+
+*"Code. Design. Build. Repeat."*
+
 </div>
