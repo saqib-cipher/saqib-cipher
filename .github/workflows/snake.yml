@@ -19,13 +19,13 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate contribution grid snake SVGs
+      - name: Generate Cyberpunk Snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#0284c7&color_dots=#e2e8f0,#bae6fd,#38bdf8,#0ea5e9,#0284c7
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00f0ff&color_dots=#060913,#083344,#0369a1,#0284c7,#00f0ff
 
       - name: Push generated SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
