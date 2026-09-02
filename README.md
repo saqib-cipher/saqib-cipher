@@ -47,9 +47,28 @@ I build modern Android applications with a focus on clean user interfaces, smoot
 
 ---
 
-### GitHub Stats
+### GitHub Stats & Streak
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saqib-cipher&show_icons=true&theme=transparent&hide_border=true&title_color=24292e&icon_color=4A4A4A&text_color=555555&bg_color=00000000" width="400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqib-cipher&layout=compact&theme=transparent&hide_border=true&title_color=24292e&text_color=555555&bg_color=00000000" width="300" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=saqib-cipher&show_icons=true&theme=transparent&hide_border=true&title_color=24292e&icon_color=4A4A4A&text_color=555555&bg_color=00000000" width="48%" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=saqib-cipher&layout=compact&theme=transparent&hide_border=true&title_color=24292e&text_color=555555&bg_color=00000000" width="48%" alt="Top Languages" />
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=saqib-cipher&theme=transparent&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" width="96%" style="max-width: 800px;" alt="GitHub Streak" />
+</div>
+
+---
+
+### GitHub Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saqib-cipher/saqib-cipher/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saqib-cipher/saqib-cipher/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/saqib-cipher/saqib-cipher/output/github-contribution-grid-snake.svg" width="100%" style="max-width: 800px;" />
+  </picture>
+</div>
+
