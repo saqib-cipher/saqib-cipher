@@ -6,10 +6,6 @@ on:
     - cron: "0 */12 * * *"
   # Allows manual execution from the Actions tab
   workflow_dispatch:
-  # Run on push to main branch
-  push:
-    branches:
-      - main
 
 jobs:
   generate:
